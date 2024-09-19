@@ -1,0 +1,11 @@
+C:\Users\SENAI3EM\Desktop\Votos\VotosPNO\VotosPNO\bin\Debug\net8.0\VotosPNO.deps.json
+C:\Users\SENAI3EM\Desktop\Votos\VotosPNO\VotosPNO\bin\Debug\net8.0\VotosPNO.dll
+C:\Users\SENAI3EM\Desktop\Votos\VotosPNO\VotosPNO\bin\Debug\net8.0\VotosPNO.pdb
+C:\Users\SENAI3EM\Desktop\Votos\VotosPNO\VotosPNO\obj\Debug\net8.0\VotosPNO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\Votos\VotosPNO\VotosPNO\obj\Debug\net8.0\VotosPNO.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\Votos\VotosPNO\VotosPNO\obj\Debug\net8.0\VotosPNO.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\Votos\VotosPNO\VotosPNO\obj\Debug\net8.0\VotosPNO.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\Votos\VotosPNO\VotosPNO\obj\Debug\net8.0\VotosPNO.dll
+C:\Users\SENAI3EM\Desktop\Votos\VotosPNO\VotosPNO\obj\Debug\net8.0\refint\VotosPNO.dll
+C:\Users\SENAI3EM\Desktop\Votos\VotosPNO\VotosPNO\obj\Debug\net8.0\VotosPNO.pdb
+C:\Users\SENAI3EM\Desktop\Votos\VotosPNO\VotosPNO\obj\Debug\net8.0\ref\VotosPNO.dll
